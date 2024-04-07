@@ -11,7 +11,7 @@ import { AppConsumer } from './app.consumer';
     ConfigModule.forRoot(),
     BullModule.forRoot({
       redis: {
-        host: 'localhost',
+        host: 'redis',
         port: Number(process.env.REDIS_PORT),
         password: process.env.REDIS_PASS,
       },
