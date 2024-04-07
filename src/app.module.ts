@@ -13,7 +13,7 @@ import { AppConsumer } from './app.consumer';
       redis: {
         host: 'localhost',
         port: 6379,
-        password: 'Redis2019!',
+        password: 'Redis2024!',
       },
     }),
     BullModule.registerQueue({
