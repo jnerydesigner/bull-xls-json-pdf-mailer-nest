@@ -26,7 +26,7 @@
     "@nestjs/core": "^10.0.0",
     "@nestjs/platform-express": "^10.0.0",
     "bull": "^4.12.2",
-    "formidable": "^2.1.2",
+    "formidable": "^3.2.4",
     "nodemailer": "^6.9.13",
     "pdfmake": "^0.2.10",
     "reflect-metadata": "^0.2.0",
